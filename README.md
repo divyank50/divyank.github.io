@@ -3,7 +3,7 @@ A passionate Blue Teamer, who also loves Red Team activities.
 
 
 # CTF
-[Logic Bomb CTF](https://medium.com/@divyankk/disgruntled-ctf-a90042fba6b)
+[Logic Bomb Investigation](https://medium.com/@divyankk/disgruntled-ctf-a90042fba6b)
 
 [Threat Intel: Analyzing Phishing Kit](https://medium.com/@divyankk/grabthephisher-blue-team-ctf-threat-intel-6b6d620b2f78)
 
