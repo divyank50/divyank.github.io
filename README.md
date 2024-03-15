@@ -15,3 +15,5 @@ A passionate Blue Teamer, who also loves Red Team activities.
 [Phishing Email Analysis](https://medium.com/@divyankk/coinbase-phishing-email-analysis-d0866182e124)
 
 [Azure Cloud Detection](https://medium.com/@divyankk/azure-cloud-detection-lab-53653daf3da8)
+
+[Snort Rule Crafting and Analysis Playground](https://medium.com/@divyankk/snort-challenge-lab-4e15461b2a5f)
