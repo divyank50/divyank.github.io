@@ -1,4 +1,4 @@
-# About Me
+
 A passionate Blue Teamer, who also loves Red Team activities.
 
 
