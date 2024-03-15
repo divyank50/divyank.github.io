@@ -11,3 +11,5 @@ A passionate Blue Teamer, who also loves Red Team activities.
 [Threat Intel: Analyzing Phishing Kit](https://medium.com/@divyankk/grabthephisher-blue-team-ctf-threat-intel-6b6d620b2f78)
 
 [WireDrive: Wireshark Traffic Analysis](https://medium.com/@divyankk/wardrive-blueteam-ctf-51464ef2dacb)
+
+[Ransomware Investigation with Splunk](https://medium.com/@divyankk/conti-d81b25f12fdb)
