@@ -17,3 +17,6 @@ A passionate Blue Teamer, who also loves Red Team activities.
 [Azure Cloud Detection](https://medium.com/@divyankk/azure-cloud-detection-lab-53653daf3da8)
 
 [Snort Rule Crafting and Analysis Playground](https://medium.com/@divyankk/snort-challenge-lab-4e15461b2a5f)
+
+# Project
+[Basic Network Scanner Script](https://github.com/divyank50/Python-projects.git)
