@@ -1,7 +1,7 @@
 
 A passionate Blue Teamer, who also loves Red Team activities.
 
-![TryHackMe Badge](https://tryhackme.com/badge/656235)
+[![TryHackMe Badge](https://tryhackme.com/badge/656235)](https://tryhackme.com/p/Divyank)
 
 # CTF ROOMS
 [Logic Bomb Investigation](https://medium.com/@divyankk/disgruntled-ctf-a90042fba6b)
