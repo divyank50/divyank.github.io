@@ -1,6 +1,3 @@
-
-A passionate Blue Teamer, who also loves Red Team activities.
-
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Divyank.png)](https://tryhackme.com/p/Divyank)
 
 # CTF ROOMS
