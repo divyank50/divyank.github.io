@@ -2,7 +2,7 @@
 A passionate Blue Teamer, who also loves Red Team activities.
 
 
-# CTF
+# CTF Rooms
 [Logic Bomb Investigation](https://medium.com/@divyankk/disgruntled-ctf-a90042fba6b)
 
 [Threat Intel: Analyzing Phishing Kit](https://medium.com/@divyankk/grabthephisher-blue-team-ctf-threat-intel-6b6d620b2f78)
@@ -19,4 +19,4 @@ A passionate Blue Teamer, who also loves Red Team activities.
 [Snort Rule Crafting and Analysis Playground](https://medium.com/@divyankk/snort-challenge-lab-4e15461b2a5f)
 
 # Project
-[Basic Network Scanner Script](https://github.com/divyank50/Python-projects.git)
+[Network Scanner Script](https://github.com/divyank50/Python-projects.git)
