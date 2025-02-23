@@ -25,3 +25,5 @@
 [Design & Implementation of Campus/University Network](https://github.com/divyank50/divyank.github.io/blob/main/Design%20%26%20Implement%20Campus)
 
 [IOC Lookup Tool](https://github.com/divyank50/IOC-Lookup-Tool)
+
+[SOC Automation](https://github.com/divyank50/SOC-Automation-Lab)
